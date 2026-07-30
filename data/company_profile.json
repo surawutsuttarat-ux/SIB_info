@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "entity_type": "company",
+  "name": "Sayang Intan Berlian",
+  "abbreviation": "SIB",
+  "positioning": "Heritage Luxury Thai–Malay Jewelry Manufacturer",
+  "business": {
+    "type": "family_business",
+    "generation": 4,
+    "years_of_experience_minimum": 50,
+    "headquarters": {
+      "district": "Sai Buri",
+      "province": "Pattani",
+      "country": "Thailand"
+    }
+  },
+  "brand_principles": [
+    "Handmade craftsmanship",
+    "Unique design",
+    "Heritage quality",
+    "Family heirloom",
+    "Direct from manufacturer",
+    "After-sales warranty"
+  ],
+  "craftsmanship": {
+    "handmade_percentage_minimum": 80,
+    "in_house_workshop": true,
+    "in_house_craftspeople": true,
+    "quality_control": true
+  },
+  "services": [
+    "Ready-stock jewelry",
+    "Custom-made jewelry",
+    "On-site design consultation",
+    "Sketch design",
+    "3D design",
+    "Customer-owned gemstone or diamond resetting",
+    "Quality control",
+    "Insured delivery",
+    "After-sales care"
+  ],
+  "materials": {
+    "metals": ["Gold 9K", "Gold 10K", "Gold 14K", "Gold 18K", "Platinum"],
+    "stones": ["Natural Diamond", "Lab-Grown Diamond", "Moissanite", "CZ", "Customer-owned gemstones"]
+  },
+  "pricing": {
+    "currency": "MYR",
+    "minimum_rm": 100,
+    "maximum_display": "RM10,000++",
+    "note": "Adjusted according to budget and design details"
+  },
+  "service_process": {
+    "deposit_percentage_minimum": 50,
+    "production_time_minimum_weeks": 2,
+    "production_time_maximum_months": 2,
+    "revision_policy": "Unlimited revisions before production begins"
+  },
+  "warranty": {
+    "production_warranty_months": 6,
+    "conditional_services": ["Cleaning and polishing", "Resizing", "Loose gemstone or diamond replacement"]
+  },
+  "shipping": {
+    "thailand_business_days": "1–3",
+    "thailand_insured": true,
+    "malaysia": "Delivery by appointment; usually COD",
+    "worldwide_supported": true
+  },
+  "markets": ["Thailand", "Malaysia"],
+  "customer_segments": ["Collectors", "Business owners"],
+  "trust_signals": [
+    "More than 50 years in business",
+    "Fourth-generation family business",
+    "Real customer reviews",
+    "Custom-made portfolio",
+    "Optional gemstone and diamond certification for an additional fee"
+  ],
+  "source_status": "Company-provided information",
+  "ai_constraints": [
+    "Do not invent missing prices, policies, certifications, addresses, or contact details",
+    "Treat price range as indicative rather than a fixed quotation",
+    "State that production time depends on complexity",
+    "State that warranty services are subject to conditions"
+  ]
+}
